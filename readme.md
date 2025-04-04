@@ -1,2 +1,11 @@
-Entrar em /teste_scraping
-abrir um terminal e rodar python main.py
+### Como executar o projeto
+
+1. Navegue até o diretório do projeto:
+   ```bash
+   cd teste_scraping
+   ```
+
+2. Execute o script principal:
+   ```bash
+   python main.py
+   ```
