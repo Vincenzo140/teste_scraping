@@ -30,7 +30,7 @@ print("Cookies iniciais:", cookies_before_login)
 
 # Dados com informação  de login
 payload = {
-    "user": "master",
+    "user": "-------", # mudar o nome do usuario
     "senha": "837543",
     "code": "100000009361"
 }
