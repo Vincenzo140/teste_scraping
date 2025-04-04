@@ -4,8 +4,9 @@
    ```bash
    cd teste_scraping
    ```
+2. mudar o nome do usuario no payload
 
-2. Execute o script principal:
+3. Execute o script principal:
    ```bash
    python main.py
    ```
