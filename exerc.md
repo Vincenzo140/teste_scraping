@@ -6,16 +6,16 @@ Automatizar o processo de login na plataforma e localizar um paciente utilizando
 #### Etapas do Processo:
 1. **Login na Plataforma**
    - Utilizar as credenciais fornecidas:
-     - Usuário: `master`
-     - Senha: `837543`
-     - Código de Identificação: `100000009361`
+     - Usuário: `-----`
+     - Senha: `------`
+     - Código de Identificação: `---------`
    - Realizar a autenticação via requisição HTTP utilizando a biblioteca `requests` em Python.
    
 2. **Navegação até a Página de Busca de Pacientes**
    - Acessar o menu: `Serviços Médicos > Faturamento > Guia de Consulta`
    
 3. **Busca do Paciente**
-   - Localizar o paciente utilizando o número da carteira: `55788888485177660015`
+   - Localizar o paciente utilizando o número da carteira: `----------`
    - Realizar a consulta na API ou via scraping da interface da plataforma, conforme necessário.
 
 #### Observação Importante:
